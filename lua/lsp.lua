@@ -4,4 +4,5 @@ vim.lsp.enable {
   "terraformls",
   "yamlls",
   "nixd",
+  "clangd",
 }
