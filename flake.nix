@@ -38,7 +38,7 @@
           yamlfmt
           go
           cargo
-          clang-tools  
+          clangd
         ];
     in
     {
